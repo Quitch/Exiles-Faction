@@ -112,7 +112,7 @@
         },
         "died": {
             "audio_cue": "/SE/Death/structure_small",
-            "effect_scale": 0.55
+            "effect_scale": 1
         }
     },
     "selection_icon": {
